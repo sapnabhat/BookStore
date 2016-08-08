@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="add">Add</string>
+    <string name="checkout">Checkout</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="order">Order</string>
+    <string name="add_book">Add Book</string>
+    <string name="Details">Details</string>
+    <string name="empty_cart">THE CART IS EMPTY!</string>
+    <string name="back">Back</string>
+
+</resources>
